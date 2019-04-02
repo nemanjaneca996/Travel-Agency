@@ -1,0 +1,84 @@
+body{
+    background-color: #dddddd;
+}
+.visina{
+    min-height: 100vh;
+}
+.holder{
+    background-color: darkorange;
+    border-radius: 5px;
+
+}
+.navigacija{
+    background-color: dodgerblue;
+    border-radius: 5px;
+}
+.bela a{
+    color:white;
+}
+.header a{
+    color: white;
+}
+.slider{
+    margin-bottom: 30px;
+}
+.top{
+    width: 235px;
+    margin-bottom: 50px;
+}
+.adresa{
+    background-color: darkorange;
+}
+.adresa a{
+    color:black;
+}
+.registracija{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.admin-slika{
+    width:90px;
+    height:90px;
+}
+.korisnik-slika{
+    width:50px;
+    height:50px;
+}
+.prikaz{
+    width:100%;
+}
+.slider-slika{
+    width:200px;
+}
+.oblasti{
+    width:32%;
+}
+.oblasti-slika{
+    width: 100%;
+}
+.footer{
+    margin-top:50px;
+}
+.smestaj-slika{
+    width:40%;
+}
+.smestaj{
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    width:80%;
+    margin:20px;
+}
+.levo{
+    float: left;
+}
+.pomoc{
+    float: left;
+    margin-left:20px;
+}
+.anketa ul{
+    list-style: none;
+}
